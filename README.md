@@ -2,7 +2,7 @@
 > In many restaurants, tipping is not just a formality – it directly impacts **staff income, customer satisfaction and revenue stability**.  
 > This project demonstrates how a restaurant can use **data and machine learning** to better understand tipping patterns, forecast expected tips for different types of bills and groups, and support decisions related to **staff scheduling, promotions and service strategy**.
 
-# Restaurant Tips Analysis & Prediction 💸
+# Restaurant Tips Analysis & Prediction 
 
 This repository contains a Jupyter Notebook that performs an exploratory data analysis (EDA) and builds a simple machine learning model to **predict restaurant tips** based on bill amount and customer-related information.  
 
@@ -13,7 +13,7 @@ The project is implemented in Python using the standard data science stack:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 The main objectives of this project are:
 
@@ -30,7 +30,7 @@ The main objectives of this project are:
 - To evaluate the model and reflect on its limitations and possible improvements, both from a **technical** and **business** perspective.
 ---
 
-## 💼 Business Problem & Use Cases
+## Business Problem & Use Cases
 
 In many restaurants, tips can form a **significant part of staff income** and are often an indicator of **customer satisfaction**. However, tipping behaviour is influenced by multiple factors and is rarely tracked or analysed systematically.
 
@@ -51,7 +51,7 @@ Although the project is based on a simplified dataset, the same structure can be
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The notebook expects a CSV file named **`tip.csv`** located in the project root.
 
@@ -65,7 +65,7 @@ Typical columns (based on the classic "tips" dataset structure):
 - `time` – time of day (`Lunch`, `Dinner`); dinners may differ from lunches in average bill size and tipping norms.
 - `size` – size of the group (integer); larger groups may split the bill and tip differently from couples or solo guests.
 
-## 🗂 Repository Structure
+## Repository Structure
 
 ```text
 .
