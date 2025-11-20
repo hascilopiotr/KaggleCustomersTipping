@@ -69,6 +69,6 @@ Typical columns (based on the classic "tips" dataset structure):
 
 ```text
 .
-├── CustomerTips.ipynb   # Main Jupyter Notebook (EDA + model)
-├── tip.csv              # Dataset (NOT committed by default)
-└── README.md            # Project documentation
+├── CustomerTips.ipynb   
+├── tip.csv              
+└── README.md            
